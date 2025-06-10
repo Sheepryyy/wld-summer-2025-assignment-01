@@ -1,0 +1,12 @@
+1.Answers to all business questions
+(1) During the 2008 financial crisis, the average unemployment rate was 7.54%, the highest was 10%, and most of the unemployment rates were between 5.75-9.5%. During the COVID 19 pandemic, the average unemployment rate was 5.7%, which was lower than the financial crisis, but the highest was 14.8%(higher than 2008), and most of the unemployment rates were between 3.6-6.48%.
+(2) The most stable unemployment rates occurred in the 1990s, with a standard deviation of 1.0492944808598896.
+(3) In the past decade, the unemployment rate slowly declined from 2015 to 2019, and then rose sharply due to the impact of the COVID-19 pandemic, reaching a peak of 8 in 2020, and then fell sharply to 2022 and then slowly rose again.
+
+2.Key statistics calculated
+(1) The data shape is (928, 2) (the two columns are observation_date and UNRATE).
+(2) Overall average unemployment rate: 5.68%. The lowest value is 2.5% (May 1, 1953 and June 1, 1953), the highest value is 14.8% (June 1, 2020), and most of them are in the range of 4.3-6.7%.
+(3) The data spans from decade 1940 to 2020, and the maximum average unemployment rate of 9.7% occurred in 1982.
+
+3.Brief business interpretation of findings
+(1) The unemployment rate changes with the economic cycle, and there is a peak and trough cycle about once every ten years.
